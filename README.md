@@ -15,7 +15,7 @@ To view all the files which are going to be staged to the first commit.
 ```
 
 ```bash
-3) git commit -u <COMMIT NAME>
+3) git commit -m <COMMIT NAME>
 Commit the files in local repository.
 ```
 
